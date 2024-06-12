@@ -1,0 +1,13 @@
+```bash
+pymongo
+pymysql
+
+## Explanation
+- pymongo: Python driver for MongoDB, required for connecting to and interacting with MongoDB databases.
+- pymysql: Python client library for MariaDB/MySQL, used for database connectivity and querying data from MariaDB.
+
+## Usage:
+Installation: This command will read the requirements.txt file and install all listed dependencies:
+
+``` bash
+pip install -r requirements.txt
