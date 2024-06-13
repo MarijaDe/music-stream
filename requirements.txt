@@ -8,6 +8,6 @@ Explanation
 pip install -r requirements.txt
 
 Usage:
-Installation: This command will read the requirements.txt file and install all listed dependencies:
+Installation: This command will read the requirements.txt file and install all listed dependencies
 
 
