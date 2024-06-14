@@ -7,7 +7,7 @@ This project involves migrating data from a relational database (MariaDB) to a N
 
 ### Relational Database Setup
 1. **Tables and Relationships**:
-   - Created at least 4 tables in MariaDB with meaningful relationships using foreign keys.
+   - Created at least 6 tables in MariaDB with meaningful relationships using foreign keys.
    - Ensured integrity constraints (e.g., primary keys, unique constraints) are applied to maintain data consistency.
    - Populated each table with 15-20 records of realistic data.
 
